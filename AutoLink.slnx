@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AutoLink.csproj" Id="3d01b245-b258-42a3-8685-d13174e641f5">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
